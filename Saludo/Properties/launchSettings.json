@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Saludo": {
+      "commandName": "Project",
+      "commandLineArgs": "Agustin, Juan"
+    }
+  }
+}
